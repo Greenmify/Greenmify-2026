@@ -1,5 +1,7 @@
 # Greenmify-2026
 
+Marketplace digital para conectar produtores rurais e consumidores de produtos agrícolas.
+
 ## License
 
 Copyright (c) 2026 Greenmify Project. All rights reserved.
