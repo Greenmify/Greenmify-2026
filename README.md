@@ -3,6 +3,12 @@ Marketplace digital para conectar produtores rurais e consumidores de produtos a
 
 *Protótipo local de um marketplace agrícola que conecta produtores rurais e consumidores. A interface foi criada para demonstrar e validar as principais jornadas descritas na proposta do projeto.*
 
+## Website
+
+[Versão-V1](https://greenmify.github.io/Greenmify-2026/)
+
+[Versão-V2](https://greenmify.github.io/Greenmify-2026/index2)
+
 ## Como abrir
 
 Não é necessário instalar dependências nem configurar um servidor:
